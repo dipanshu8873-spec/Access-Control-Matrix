@@ -1,0 +1,11 @@
+user.txt
+access.txt
+setDomain.txt
+setType.txt
+DomainInfo.txt
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
